@@ -1,0 +1,6 @@
+1	Αθήνα	poimantikis_place1
+3	Sibiu	poimantikis_place3
+5	Stuttgart	poimantikis_place5
+7	Neukirchen-Vluyn	poimantikis_place7
+9	Leuven	poimantikis_place9
+11	Athen	poimantikis_place11

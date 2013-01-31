@@ -1,0 +1,9 @@
+1	AntoniouS	poimantikis_agent1
+3	BakasI	poimantikis_agent3
+5	BozinisConstantine	poimantikis_agent5
+7	WalraffMartin	poimantikis_agent7
+9	BrändleRudolf	poimantikis_agent9
+11	MoldovanS	poimantikis_agent11
+13	DafniE	poimantikis_agent13
+15	M_Karrer/W_Kraus_(εκδ)_Karrer_Martin/Kraus_Wolfgang_(εκδ)	poimantikis_agent15
+17	J-M_Auwers/HJ_de_Jonge_(εκδ)	poimantikis_agent17

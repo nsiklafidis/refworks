@@ -1,0 +1,11 @@
+1	HachensackNJ	math_place1
+3	Thessaloniki	math_place3
+5	Lancaster_PA	math_place5
+7	Vilnius_Lithuania	math_place7
+9	Berlin	math_place9
+11	Hackensack_NJ	math_place11
+13	London	math_place13
+15	Providence_RI	math_place15
+17	Hackensack	math_place17
+19	Θεσσαλονίκη	math_place19
+21	Αθήνα	math_place21

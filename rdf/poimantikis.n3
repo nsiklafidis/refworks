@@ -1,0 +1,568 @@
+@prefix authref:<http://authref.math.auth.gr/resource/> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+@prefix bibo:	<http://purl.org/ontology/bibo/> .
+@prefix rdvocab:<http://RDVocab.info/elements/> .
+@prefix dcterms:<http://purl.org/dc/terms/> . 
+@prefix dc:	<http://purl.org/dc/elements/1.1/> . 
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix schema: <http://schema.org/> .
+@prefix bibtex:	<http://purl.org/net/nknouf/ns/bibtex#> .
+authref:poimantikis_pubid1046	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1046	dc:type	"Book, Section" .
+authref:poimantikis_pubid1046	dc:source	"Print(0)" .
+authref:poimantikis_pubid1046	dc:identifier	"1046" .
+authref:poimantikis_pubid1046	bibtex:hasTitle	"Συντμήσεις, Xάρτες-Eικόνες, Tα Πρόσωπα της Bίβλου, Eυρετήριο, μετάφραση-κριτική επιμέλεια" .
+authref:poimantikis_pubid1046	rdfs:label	"Συντμήσεις, Xάρτες-Eικόνες, Tα Πρόσωπα της Bίβλου, Eυρετήριο, μετάφραση-κριτική επιμέλεια" .
+authref:poimantikis_pubid1046	bibtex:hasYear	"1998" .
+authref:poimantikis_pubid1046	bibtex:hasBooktitle	"Ο Άτλας της Bίβλου" .
+authref:poimantikis_pubid1046	bibtex:hasPublisher	authref:poimantikis_publisher1 .
+authref:poimantikis_publisher1	rdf:type	foaf:Organization .
+authref:poimantikis_publisher1	foaf:name	"Η Καθημερινή" .
+authref:poimantikis_pubid1046	bibtex:hasLocation	authref:poimantikis_place1 .
+authref:poimantikis_place1	rdf:type	schema:Place .
+authref:poimantikis_place1	schema:name	"Αθήνα" .
+authref:poimantikis_place1	rdfs:label	"Αθήνα" .
+authref:poimantikis_pubid1046	skip	"16" .
+authref:poimantikis_pubid1046	dc:language	"Greek(41)" .
+authref:poimantikis_pubid24	rdf:type	bibtex:Article .
+authref:poimantikis_pubid24	dc:type	"Conference Proceedings" .
+authref:poimantikis_pubid24	dc:source	"Print(0)" .
+authref:poimantikis_pubid24	dc:identifier	"24" .
+authref:poimantikis_pubid24	bibtex:hasAuthor	authref:poimantikis_agent1 .
+authref:poimantikis_agent1	rdf:type	foaf:Person .
+authref:poimantikis_agent1	foaf:name	"Antoniou,S." .
+authref:poimantikis_pubid24	bibtex:hasTitle	"The composition and psalmody of the Communion Hymns" .
+authref:poimantikis_pubid24	rdfs:label	"The composition and psalmody of the Communion Hymns" .
+authref:poimantikis_pubid24	bibtex:hasNote	"Ιούνιος 2007" .
+authref:poimantikis_pubid24	bibtex:hasNote	"ID: 1292" .
+authref:poimantikis_pubid24	bibtex:hasBooktitle	"Πρακτικὰ τοῦ  Β΄ Διεθνούς Συνεδρίου τῆς Λειτουργικῆς Μουσικῆς στὸ JOENSU " .
+authref:poimantikis_pubid24	bibtex:hasEdition	"Φινλανδία" .
+authref:poimantikis_pubid24	dc:source	"RefShare" .
+authref:poimantikis_pubid24	dc:language	"English(30)" .
+authref:poimantikis_pubid554	rdf:type	bibtex:Article .
+authref:poimantikis_pubid554	dc:type	"Generic" .
+authref:poimantikis_pubid554	dc:source	"Print(0)" .
+authref:poimantikis_pubid554	dc:identifier	"554" .
+authref:poimantikis_pubid554	bibtex:hasAuthor	authref:poimantikis_agent3 .
+authref:poimantikis_agent3	rdf:type	foaf:Person .
+authref:poimantikis_agent3	foaf:name	"Bakas,I." .
+authref:poimantikis_pubid554	bibtex:hasTitle	"Ath. Karathanassis, Thessalonikia  and Makedonika" .
+authref:poimantikis_pubid554	rdfs:label	"Ath. Karathanassis, Thessalonikia  and Makedonika" .
+authref:poimantikis_pubid554	bibtex:hasJournal	"Balkan Studies" .
+authref:poimantikis_pubid554	bibtex:hasYear	"1999" .
+authref:poimantikis_pubid554	bibtex:hasVolume	"40/1" .
+authref:poimantikis_pubid554	bibtex:hasPages	"213-218" .
+authref:poimantikis_pubid554	skip	"20" .
+authref:poimantikis_pubid554	dc:language	"English(30)" .
+authref:poimantikis_pubid424	rdf:type	bibtex:Article .
+authref:poimantikis_pubid424	dc:type	"Conference Proceedings" .
+authref:poimantikis_pubid424	dc:source	"Print(0)" .
+authref:poimantikis_pubid424	dc:identifier	"424" .
+authref:poimantikis_pubid424	bibtex:hasAuthor	authref:poimantikis_agent5 .
+authref:poimantikis_agent5	rdf:type	foaf:Person .
+authref:poimantikis_agent5	foaf:name	"Bozinis,Constantine" .
+authref:poimantikis_pubid424	bibtex:hasTitle	"«Μοναρχία, Δημοκρατία, Βασιλεία, Τυραννίς, Ἀναρχία: Αnmerkungen zum politischen Vokabular im Werke Conta Eunomium des Gregor von Nyssa»" .
+authref:poimantikis_pubid424	rdfs:label	"«Μοναρχία, Δημοκρατία, Βασιλεία, Τυραννίς, Ἀναρχία: Αnmerkungen zum politischen Vokabular im Werke Conta Eunomium des Gregor von Nyssa»" .
+authref:poimantikis_pubid424	bibtex:hasYear	"υπό δημοσίευση στα πρακτικά του συνεδρίου" .
+authref:poimantikis_pubid424	bibtex:hasBooktitle	"Πρακτικά του 12ου Διεθνούς Συνεδρίου ‘Γρηγόριος Νύσσης’" .
+authref:poimantikis_pubid424	bibtex:hasEdition	"Leuven" .
+authref:poimantikis_pubid424	dc:language	"German(38)" .
+authref:poimantikis_pubid425	rdf:type	bibtex:Article .
+authref:poimantikis_pubid425	dc:type	"Conference Proceedings" .
+authref:poimantikis_pubid425	dc:source	"Print(0)" .
+authref:poimantikis_pubid425	dc:identifier	"425" .
+authref:poimantikis_pubid425	bibtex:hasAuthor	authref:poimantikis_agent5 .
+authref:poimantikis_agent5	rdf:type	foaf:Person .
+authref:poimantikis_agent5	foaf:name	"Bozinis,Constantine" .
+authref:poimantikis_pubid425	bibtex:hasTitle	"«De imperio et potestate: A Dialogue with John Chrysostom»" .
+authref:poimantikis_pubid425	rdfs:label	"«De imperio et potestate: A Dialogue with John Chrysostom»" .
+authref:poimantikis_pubid425	bibtex:hasJournal	"Studia Patristica" .
+authref:poimantikis_pubid425	bibtex:hasYear	"υπό δημοσίευση στα επόμενα Studia Patristica" .
+authref:poimantikis_pubid425	bibtex:hasNote	"Αύγουστος 8-12, 2011" .
+authref:poimantikis_pubid425	bibtex:hasBooktitle	"Πρακτικά του 16ου Παγκόσμιου Πατρολογικού Συνεδρίου της Οξφόρδης" .
+authref:poimantikis_pubid425	bibtex:hasEdition	"Oxford" .
+authref:poimantikis_pubid425	skip	"09" .
+authref:poimantikis_pubid425	dc:language	"English(30)" .
+authref:poimantikis_pubid423	rdf:type	bibtex:Article .
+authref:poimantikis_pubid423	dc:type	"Conference Proceedings" .
+authref:poimantikis_pubid423	dc:source	"Print(0)" .
+authref:poimantikis_pubid423	dc:identifier	"423" .
+authref:poimantikis_pubid423	bibtex:hasAuthor	authref:poimantikis_agent5 .
+authref:poimantikis_agent5	rdf:type	foaf:Person .
+authref:poimantikis_agent5	foaf:name	"Bozinis,Constantine" .
+authref:poimantikis_pubid423	bibtex:hasTitle	"«What does Paganism Mean for a Church Father? An Inquiry into the Use of the Term εἰδωλολατρεία in the Rhetoric of John Chrysostom»" .
+authref:poimantikis_pubid423	rdfs:label	"«What does Paganism Mean for a Church Father? An Inquiry into the Use of the Term εἰδωλολατρεία in the Rhetoric of John Chrysostom»" .
+authref:poimantikis_pubid423	bibtex:hasJournal	"Studia Patristica" .
+authref:poimantikis_pubid423	bibtex:hasYear	"2010" .
+authref:poimantikis_pubid423	bibtex:hasNote	"Αύγουστος 6-11, 2007" .
+authref:poimantikis_pubid423	bibtex:hasVolume	"ΧLVΙΙ" .
+authref:poimantikis_pubid423	bibtex:hasPages	"243-248" .
+authref:poimantikis_pubid423	bibtex:hasBooktitle	"Πρακτικά του 15ου Παγκοσμίου Πατρολογικού Συνεδρίου της Οξφόρδης" .
+authref:poimantikis_pubid423	bibtex:hasEdition	"Oxford" .
+authref:poimantikis_pubid423	skip	"09" .
+authref:poimantikis_pubid423	dc:language	"English(30)" .
+authref:poimantikis_pubid428	rdf:type	bibtex:Article .
+authref:poimantikis_pubid428	dc:type	"Conference Proceedings" .
+authref:poimantikis_pubid428	dc:source	"Print(0)" .
+authref:poimantikis_pubid428	dc:identifier	"428" .
+authref:poimantikis_pubid428	bibtex:hasAuthor	authref:poimantikis_agent5 .
+authref:poimantikis_agent5	rdf:type	foaf:Person .
+authref:poimantikis_agent5	foaf:name	"Bozinis,Constantine" .
+authref:poimantikis_pubid428	bibtex:hasTitle	"«Nachwirkungen der Kanzelreden des Chrysostomos in der byzantinischen politischen Philosophie»" .
+authref:poimantikis_pubid428	rdfs:label	"«Nachwirkungen der Kanzelreden des Chrysostomos in der byzantinischen politischen Philosophie»" .
+authref:poimantikis_pubid428	bibtex:hasYear	"2008" .
+authref:poimantikis_pubid428	bibtex:hasNote	"Ιανουάριος 25-27, 2007" .
+authref:poimantikis_pubid428	bibtex:hasPages	"111-138" .
+authref:poimantikis_pubid428	bibtex:hasAuthor	authref:poimantikis_agent7 .
+authref:poimantikis_agent7	rdf:type	foaf:Person .
+authref:poimantikis_agent7	foaf:name	"Walraff,Martin" .
+authref:poimantikis_pubid428	bibtex:hasAuthor	authref:poimantikis_agent9 .
+authref:poimantikis_agent9	rdf:type	foaf:Person .
+authref:poimantikis_agent9	foaf:name	"Brändle,Rudolf" .
+authref:poimantikis_pubid428	bibtex:hasBooktitle	"Πρακτικά του διεθνούς συνεδρίου στoν συλλογικό τόμο Chrysostomosbilder in 1600 Jahren. Facetten der Wirkungsgeschichte eines Kirchenvaters" .
+authref:poimantikis_pubid428	bibtex:hasEdition	"Βασιλεία" .
+authref:poimantikis_pubid428	bibtex:hasPublisher	authref:poimantikis_publisher3 .
+authref:poimantikis_publisher3	rdf:type	foaf:Organization .
+authref:poimantikis_publisher3	foaf:name	"Berlin-New York" .
+authref:poimantikis_pubid428	skip	"11" .
+authref:poimantikis_pubid428	dc:language	"German(38)" .
+authref:poimantikis_pubid429	rdf:type	bibtex:Article .
+authref:poimantikis_pubid429	dc:type	"Conference Proceedings" .
+authref:poimantikis_pubid429	dc:source	"Print(0)" .
+authref:poimantikis_pubid429	dc:identifier	"429" .
+authref:poimantikis_pubid429	bibtex:hasAuthor	authref:poimantikis_agent5 .
+authref:poimantikis_agent5	rdf:type	foaf:Person .
+authref:poimantikis_agent5	foaf:name	"Bozinis,Constantine" .
+authref:poimantikis_pubid429	bibtex:hasTitle	"«Théologie et politique dans l’ oeuvre de Jean Chrysostome»" .
+authref:poimantikis_pubid429	rdfs:label	"«Théologie et politique dans l’ oeuvre de Jean Chrysostome»" .
+authref:poimantikis_pubid429	bibtex:hasYear	"2008" .
+authref:poimantikis_pubid429	bibtex:hasNote	"Οκτώβριος 18-19, 2007" .
+authref:poimantikis_pubid429	bibtex:hasPages	"335-352" .
+authref:poimantikis_pubid429	bibtex:hasAuthor	authref:poimantikis_agent11 .
+authref:poimantikis_agent11	rdf:type	foaf:Person .
+authref:poimantikis_agent11	foaf:name	"Moldovan,S." .
+authref:poimantikis_pubid429	bibtex:hasBooktitle	"Πρακτικά του διεθνούς συνεδρίου  Sfântul Ioan Gură de Aur: Ierarh-Teolog-Filanthrop (407-2007) στον ομώνυμο συλλογικό τόμο" .
+authref:poimantikis_pubid429	bibtex:hasEdition	"Sibiu" .
+authref:poimantikis_pubid429	bibtex:hasLocation	authref:poimantikis_place3 .
+authref:poimantikis_place3	rdf:type	schema:Place .
+authref:poimantikis_place3	schema:name	"Sibiu" .
+authref:poimantikis_place3	rdfs:label	"Sibiu" .
+authref:poimantikis_pubid429	skip	"11" .
+authref:poimantikis_pubid429	dc:language	"French(33)" .
+authref:poimantikis_pubid421	rdf:type	bibtex:Article .
+authref:poimantikis_pubid421	dc:type	"Conference Proceedings" .
+authref:poimantikis_pubid421	dc:source	"Print(0)" .
+authref:poimantikis_pubid421	dc:identifier	"421" .
+authref:poimantikis_pubid421	bibtex:hasAuthor	authref:poimantikis_agent5 .
+authref:poimantikis_agent5	rdf:type	foaf:Person .
+authref:poimantikis_agent5	foaf:name	"Bozinis,Constantine" .
+authref:poimantikis_pubid421	bibtex:hasTitle	"«Two Platonic Images in the Rhetoric of John Chrysostom: ‘The wings of Love’ and ‘the Charioteer of the Soul’»" .
+authref:poimantikis_pubid421	rdfs:label	"«Two Platonic Images in the Rhetoric of John Chrysostom: ‘The wings of Love’ and ‘the Charioteer of the Soul’»" .
+authref:poimantikis_pubid421	bibtex:hasJournal	"Studia Patristica" .
+authref:poimantikis_pubid421	bibtex:hasYear	"2006" .
+authref:poimantikis_pubid421	bibtex:hasNote	"Αύγουστος 18-23, 2003" .
+authref:poimantikis_pubid421	bibtex:hasVolume	"XLI" .
+authref:poimantikis_pubid421	bibtex:hasPages	"433-438" .
+authref:poimantikis_pubid421	bibtex:hasBooktitle	"Πρακτικά του 14ου Διεθνούς Πατρολογικού Συνεδρίου της Οξφόρδης" .
+authref:poimantikis_pubid421	bibtex:hasEdition	"Oxford" .
+authref:poimantikis_pubid421	skip	"09" .
+authref:poimantikis_pubid421	dc:language	"English(30)" .
+authref:poimantikis_pubid426	rdf:type	bibtex:Article .
+authref:poimantikis_pubid426	dc:type	"Conference Proceedings" .
+authref:poimantikis_pubid426	dc:source	"Print(0)" .
+authref:poimantikis_pubid426	dc:identifier	"426" .
+authref:poimantikis_pubid426	bibtex:hasAuthor	authref:poimantikis_agent5 .
+authref:poimantikis_agent5	rdf:type	foaf:Person .
+authref:poimantikis_agent5	foaf:name	"Bozinis,Constantine" .
+authref:poimantikis_pubid426	bibtex:hasTitle	"«Θεῖος ἔρως: A Common Path towards Salvation for both Pagan and Christian Intellectuals»" .
+authref:poimantikis_pubid426	rdfs:label	"«Θεῖος ἔρως: A Common Path towards Salvation for both Pagan and Christian Intellectuals»" .
+authref:poimantikis_pubid426	bibtex:hasJournal	"Studia Εphemeridis Augustinianum" .
+authref:poimantikis_pubid426	bibtex:hasYear	"2006" .
+authref:poimantikis_pubid426	bibtex:hasNote	"Μάϊος 5-7, 2005" .
+authref:poimantikis_pubid426	bibtex:hasVolume	"96" .
+authref:poimantikis_pubid426	bibtex:hasPages	"71-83" .
+authref:poimantikis_pubid426	bibtex:hasBooktitle	"Πρακτικά του 34ου διεθνούς συνεδρίου  Pagani e Christiani alla ricerca della salvezza-Secoli I-III" .
+authref:poimantikis_pubid426	bibtex:hasEdition	"Ρώμη" .
+authref:poimantikis_pubid426	skip	"11" .
+authref:poimantikis_pubid426	dc:language	"English(30)" .
+authref:poimantikis_pubid435	rdf:type	bibtex:Article .
+authref:poimantikis_pubid435	dc:type	"Conference Proceedings" .
+authref:poimantikis_pubid435	dc:source	"Print(0)" .
+authref:poimantikis_pubid435	dc:identifier	"435" .
+authref:poimantikis_pubid435	bibtex:hasAuthor	authref:poimantikis_agent5 .
+authref:poimantikis_agent5	rdf:type	foaf:Person .
+authref:poimantikis_agent5	foaf:name	"Bozinis,Constantine" .
+authref:poimantikis_pubid435	bibtex:hasTitle	"«Von Triadolologie zur Christologie: Der philosophische Begriff von mixis in den antiapolinaristischen Schriften Gregors von Nyssa»" .
+authref:poimantikis_pubid435	rdfs:label	"«Von Triadolologie zur Christologie: Der philosophische Begriff von mixis in den antiapolinaristischen Schriften Gregors von Nyssa»" .
+authref:poimantikis_pubid435	bibtex:hasNote	"Σεπέμβριος 17-20, 2008" .
+authref:poimantikis_pubid435	bibtex:hasBooktitle	"Aνακοίνωση στο 11ο Διεθνές Συνέδριο: ‘Γρηγόριος Νύσσης’" .
+authref:poimantikis_pubid435	bibtex:hasEdition	"Τübingen" .
+authref:poimantikis_pubid435	skip	"13" .
+authref:poimantikis_pubid435	dc:language	"German(38)" .
+authref:poimantikis_pubid436	rdf:type	bibtex:Article .
+authref:poimantikis_pubid436	dc:type	"Conference Proceedings" .
+authref:poimantikis_pubid436	dc:source	"Print(0)" .
+authref:poimantikis_pubid436	dc:identifier	"436" .
+authref:poimantikis_pubid436	bibtex:hasAuthor	authref:poimantikis_agent5 .
+authref:poimantikis_agent5	rdf:type	foaf:Person .
+authref:poimantikis_agent5	foaf:name	"Bozinis,Constantine" .
+authref:poimantikis_pubid436	bibtex:hasTitle	"«Die Bewertung der Soziallehre des Johannes Chrysostomus in der spätmodernen theologischen Problematik»" .
+authref:poimantikis_pubid436	rdfs:label	"«Die Bewertung der Soziallehre des Johannes Chrysostomus in der spätmodernen theologischen Problematik»" .
+authref:poimantikis_pubid436	bibtex:hasNote	"Σεπτέμβριος 14-18, 2010" .
+authref:poimantikis_pubid436	bibtex:hasBooktitle	"Ανακοίνωση στο διεθνές επιστημονικό συνέδριο: Die Rolle der Theologie in Kirche und Gesellschaft" .
+authref:poimantikis_pubid436	bibtex:hasEdition	"Θεσσαλονίκη" .
+authref:poimantikis_pubid436	skip	"13" .
+authref:poimantikis_pubid436	dc:language	"German(38)" .
+authref:poimantikis_pubid1077	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1077	dc:type	"Book, Section" .
+authref:poimantikis_pubid1077	dc:source	"Print(0)" .
+authref:poimantikis_pubid1077	dc:identifier	"1077" .
+authref:poimantikis_pubid1077	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1077	bibtex:hasTitle	"E.G. Dafni/A. Schart, Amos,Erläuterungen und Kommentare zum griechischen Alten Testament.  Band 2 Psalmen bis Daniel. Deutsche Bibelgesellschaft" .
+authref:poimantikis_pubid1077	rdfs:label	"E.G. Dafni/A. Schart, Amos,Erläuterungen und Kommentare zum griechischen Alten Testament.  Band 2 Psalmen bis Daniel. Deutsche Bibelgesellschaft" .
+authref:poimantikis_pubid1077	bibtex:hasYear	"2011" .
+authref:poimantikis_pubid1077	bibtex:hasAuthor	authref:poimantikis_agent15 .
+authref:poimantikis_agent15	rdf:type	foaf:Person .
+authref:poimantikis_agent15	foaf:name	"M. Karrer/W. Kraus (εκδ.), Karrer, Martin/Kraus, Wolfgang (εκδ.)" .
+authref:poimantikis_pubid1077	bibtex:hasLocation	authref:poimantikis_place5 .
+authref:poimantikis_place5	rdf:type	schema:Place .
+authref:poimantikis_place5	schema:name	"Stuttgart" .
+authref:poimantikis_place5	rdfs:label	"Stuttgart" .
+authref:poimantikis_pubid1077	bibtex:hasSeries	"Septuaginta  Deutsch" .
+authref:poimantikis_pubid1077	bibtex:hasISBN	"ISBN 978-3-438-05143-1, 2339-2361" .
+authref:poimantikis_pubid1077	dc:language	"German(38)" .
+authref:poimantikis_pubid1075	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1075	dc:type	"Monograph" .
+authref:poimantikis_pubid1075	dc:source	"Print(0)" .
+authref:poimantikis_pubid1075	dc:identifier	"1075" .
+authref:poimantikis_pubid1075	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1075	bibtex:hasTitle	"Genesis, Plato und  Euripides. Drei Studien zum Austausch von Griechischem und Hebräischem Sprach-  und Gedankengut in der Klassik und im Hellenismus" .
+authref:poimantikis_pubid1075	rdfs:label	"Genesis, Plato und  Euripides. Drei Studien zum Austausch von Griechischem und Hebräischem Sprach-  und Gedankengut in der Klassik und im Hellenismus" .
+authref:poimantikis_pubid1075	bibtex:hasYear	"2010" .
+authref:poimantikis_pubid1075	bibtex:hasBooktitle	"Biblisch-Theologische Studien 108" .
+authref:poimantikis_pubid1075	bibtex:hasLocation	authref:poimantikis_place7 .
+authref:poimantikis_place7	rdf:type	schema:Place .
+authref:poimantikis_place7	schema:name	"Neukirchen-Vluyn" .
+authref:poimantikis_place7	rdfs:label	"Neukirchen-Vluyn" .
+authref:poimantikis_pubid1075	bibtex:hasISBN	"ISBN 3-7887-2425-0. ISBN13: 978-3-7887-2425-2." .
+authref:poimantikis_pubid1075	skip	"1" .
+authref:poimantikis_pubid1075	dc:language	"German(38)" .
+authref:poimantikis_pubid1089	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1089	dc:type	"Book, Section" .
+authref:poimantikis_pubid1089	dc:source	"Print(0)" .
+authref:poimantikis_pubid1089	dc:identifier	"1089" .
+authref:poimantikis_pubid1089	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1089	bibtex:hasTitle	"ΝΟΥΣ in der Septuaginta des Hiobbuches." .
+authref:poimantikis_pubid1089	rdfs:label	"ΝΟΥΣ in der Septuaginta des Hiobbuches." .
+authref:poimantikis_pubid1089	bibtex:hasYear	"2006" .
+authref:poimantikis_pubid1089	bibtex:hasVolume	"XXXVII" .
+authref:poimantikis_pubid1089	bibtex:hasPages	"34-54" .
+authref:poimantikis_pubid1089	bibtex:hasBooktitle	"Zur Frage  nach der Rezeption der Homerepik im Hellenistischen Judentum" .
+authref:poimantikis_pubid1089	bibtex:hasSeries	"Journal for the Study of Judaism" .
+authref:poimantikis_pubid1089	skip	"17" .
+authref:poimantikis_pubid1089	dc:language	"German(38)" .
+authref:poimantikis_pubid1096	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1096	dc:type	"Journal Article" .
+authref:poimantikis_pubid1096	dc:source	"Print(0)" .
+authref:poimantikis_pubid1096	dc:identifier	"1096" .
+authref:poimantikis_pubid1096	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1096	bibtex:hasTitle	"Genesis 1-11 und Platos Symposion. Überlegungen  zum Austausch von hebräischem und griechischem Sprach- und Gedankengut in der  Klassik und im Hellenismus, Old Testament Essays 19/2" .
+authref:poimantikis_pubid1096	rdfs:label	"Genesis 1-11 und Platos Symposion. Überlegungen  zum Austausch von hebräischem und griechischem Sprach- und Gedankengut in der  Klassik und im Hellenismus, Old Testament Essays 19/2" .
+authref:poimantikis_pubid1096	bibtex:hasYear	"2006" .
+authref:poimantikis_pubid1096	bibtex:hasPages	"584-632" .
+authref:poimantikis_pubid1096	dc:language	"German(38)" .
+authref:poimantikis_pubid1088	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1088	dc:type	"Book, Section" .
+authref:poimantikis_pubid1088	dc:source	"Print(0)" .
+authref:poimantikis_pubid1088	dc:identifier	"1088" .
+authref:poimantikis_pubid1088	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1088	bibtex:hasTitle	"Οἱ οὐκ ὄντες θεοί  in der Septuaginta des  Jeremiabuches und in der Epistel Jeremias. Ein Beitrag zur Erforschung des  Werdegangs des sogenanten alexandrinischen Kanons.  The  Biblical Canons" .
+authref:poimantikis_pubid1088	rdfs:label	"Οἱ οὐκ ὄντες θεοί  in der Septuaginta des  Jeremiabuches und in der Epistel Jeremias. Ein Beitrag zur Erforschung des  Werdegangs des sogenanten alexandrinischen Kanons.  The  Biblical Canons" .
+authref:poimantikis_pubid1088	bibtex:hasYear	"2003" .
+authref:poimantikis_pubid1088	bibtex:hasVolume	"163" .
+authref:poimantikis_pubid1088	bibtex:hasPages	"235-245" .
+authref:poimantikis_pubid1088	bibtex:hasAuthor	authref:poimantikis_agent17 .
+authref:poimantikis_agent17	rdf:type	foaf:Person .
+authref:poimantikis_agent17	foaf:name	"J.-M. Auwers/H.J. de Jonge (εκδ.)," .
+authref:poimantikis_pubid1088	bibtex:hasLocation	authref:poimantikis_place9 .
+authref:poimantikis_place9	rdf:type	schema:Place .
+authref:poimantikis_place9	schema:name	"Leuven" .
+authref:poimantikis_place9	rdfs:label	"Leuven" .
+authref:poimantikis_pubid1088	bibtex:hasSeries	"Bibliotheca Ephemeridum  Theologicarum Lovaniensium" .
+authref:poimantikis_pubid1088	dc:language	"German(38)" .
+authref:poimantikis_pubid1079	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1079	dc:type	"Book, Section" .
+authref:poimantikis_pubid1079	dc:source	"Print(0)" .
+authref:poimantikis_pubid1079	dc:identifier	"1079" .
+authref:poimantikis_pubid1079	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1079	bibtex:hasTitle	"Theologie der Sprache der Septuaginta." .
+authref:poimantikis_pubid1079	rdfs:label	"Theologie der Sprache der Septuaginta." .
+authref:poimantikis_pubid1079	bibtex:hasYear	"2002" .
+authref:poimantikis_pubid1079	bibtex:hasVolume	"58" .
+authref:poimantikis_pubid1079	bibtex:hasPages	"315-328" .
+authref:poimantikis_pubid1079	bibtex:hasSeries	"Theologische Zeitschrift" .
+authref:poimantikis_pubid1079	dc:language	"German(38)" .
+authref:poimantikis_pubid1073	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1073	dc:type	"Monograph" .
+authref:poimantikis_pubid1073	dc:source	"Print(0)" .
+authref:poimantikis_pubid1073	dc:identifier	"1073" .
+authref:poimantikis_pubid1073	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1073	bibtex:hasTitle	"Von Angesicht zu  Angesicht. Prolegomena zum Thema 'Gottschauen' im hebräischen und  griechischen Exodusbuch, 1. Exodus 33,11.12-23 übersetzungs- und wirkungskritisch." .
+authref:poimantikis_pubid1073	rdfs:label	"Von Angesicht zu  Angesicht. Prolegomena zum Thema 'Gottschauen' im hebräischen und  griechischen Exodusbuch, 1. Exodus 33,11.12-23 übersetzungs- und wirkungskritisch." .
+authref:poimantikis_pubid1073	bibtex:hasYear	"2001" .
+authref:poimantikis_pubid1073	bibtex:hasBooktitle	"ΕπιστημονικαίΜελέται  2" .
+authref:poimantikis_pubid1073	bibtex:hasLocation	authref:poimantikis_place11 .
+authref:poimantikis_place11	rdf:type	schema:Place .
+authref:poimantikis_place11	schema:name	"Athen" .
+authref:poimantikis_place11	rdfs:label	"Athen" .
+authref:poimantikis_pubid1073	bibtex:hasISBN	"ISBN 960-7352-20-3." .
+authref:poimantikis_pubid1073	skip	"1" .
+authref:poimantikis_pubid1073	dc:language	"German(38)" .
+authref:poimantikis_pubid1080	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1080	dc:type	"Journal Article" .
+authref:poimantikis_pubid1080	dc:source	"Print(0)" .
+authref:poimantikis_pubid1080	dc:identifier	"1080" .
+authref:poimantikis_pubid1080	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1080	bibtex:hasTitle	"ΑΔΑΜΑΣ ΕΝ ΜΕΣΩ ΛΑΟΥ ΜΟΥ  ΙΣΡΑΗΛ (Amos 7,8). Hermeneutical  Principals in the LXX, vorgetragen beim Internationalen Symposium der  Griechischen Bibelgesellschaft und der Vereinigten Bibelgesellschaften, am 13.  November 2001 in Athen, E.G. Dafni (εκδ.),  Alttestamentliche Studien 1. Ἐπιστημονικαί  Μελέται  3." .
+authref:poimantikis_pubid1080	rdfs:label	"ΑΔΑΜΑΣ ΕΝ ΜΕΣΩ ΛΑΟΥ ΜΟΥ  ΙΣΡΑΗΛ (Amos 7,8). Hermeneutical  Principals in the LXX, vorgetragen beim Internationalen Symposium der  Griechischen Bibelgesellschaft und der Vereinigten Bibelgesellschaften, am 13.  November 2001 in Athen, E.G. Dafni (εκδ.),  Alttestamentliche Studien 1. Ἐπιστημονικαί  Μελέται  3." .
+authref:poimantikis_pubid1080	bibtex:hasYear	"2001" .
+authref:poimantikis_pubid1080	bibtex:hasPages	"117-143" .
+authref:poimantikis_pubid1080	bibtex:hasLocation	authref:poimantikis_place11 .
+authref:poimantikis_place11	rdf:type	schema:Place .
+authref:poimantikis_place11	schema:name	"Athen" .
+authref:poimantikis_place11	rdfs:label	"Athen" .
+authref:poimantikis_pubid1080	dc:language	"German(38)" .
+authref:poimantikis_pubid1081	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1081	dc:type	"Book, Section" .
+authref:poimantikis_pubid1081	dc:source	"Print(0)" .
+authref:poimantikis_pubid1081	dc:identifier	"1081" .
+authref:poimantikis_pubid1081	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1081	bibtex:hasTitle	"אשה כי מאיש - γυνή ὅτι ἐκ τοῦ ἀνδρὸς αὐτῆς  (Gen 2,23). Zur Anthropologie von Genesis 1-11. , Studies in the Book of Genesis. Literature, Redaction and History. Papers presented at the 48th Colloquium Biblicum  Lovaniense (28., 29. and 30. July 1999)." .
+authref:poimantikis_pubid1081	rdfs:label	"אשה כי מאיש - γυνή ὅτι ἐκ τοῦ ἀνδρὸς αὐτῆς  (Gen 2,23). Zur Anthropologie von Genesis 1-11. , Studies in the Book of Genesis. Literature, Redaction and History. Papers presented at the 48th Colloquium Biblicum  Lovaniense (28., 29. and 30. July 1999)." .
+authref:poimantikis_pubid1081	bibtex:hasYear	"2001" .
+authref:poimantikis_pubid1081	bibtex:hasVolume	"155" .
+authref:poimantikis_pubid1081	bibtex:hasPages	"569-584" .
+authref:poimantikis_pubid1081	bibtex:hasPublisher	authref:poimantikis_publisher5 .
+authref:poimantikis_publisher5	rdf:type	foaf:Organization .
+authref:poimantikis_publisher5	foaf:name	"Wenin,A.;" .
+authref:poimantikis_pubid1081	bibtex:hasLocation	authref:poimantikis_place9 .
+authref:poimantikis_place9	rdf:type	schema:Place .
+authref:poimantikis_place9	schema:name	"Leuven" .
+authref:poimantikis_place9	rdfs:label	"Leuven" .
+authref:poimantikis_pubid1081	bibtex:hasSeries	"Bibliotheca Ephemeridum Theologicarum Lovanesium" .
+authref:poimantikis_pubid1081	skip	"17" .
+authref:poimantikis_pubid1081	dc:language	"German(38)" .
+authref:poimantikis_pubid1083	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1083	dc:type	"Book, Section" .
+authref:poimantikis_pubid1083	dc:source	"Print(0)" .
+authref:poimantikis_pubid1083	dc:identifier	"1083" .
+authref:poimantikis_pubid1083	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1083	bibtex:hasTitle	"Σάρξ μου ἐξ αὐτῶν  (LXX-Hos ix 12). Zur Theologie der Sprache  der Septuaginta." .
+authref:poimantikis_pubid1083	rdfs:label	"Σάρξ μου ἐξ αὐτῶν  (LXX-Hos ix 12). Zur Theologie der Sprache  der Septuaginta." .
+authref:poimantikis_pubid1083	bibtex:hasJournal	"Vetus Testamentum" .
+authref:poimantikis_pubid1083	bibtex:hasYear	"2001" .
+authref:poimantikis_pubid1083	bibtex:hasVolume	"51" .
+authref:poimantikis_pubid1083	bibtex:hasPages	"336-353" .
+authref:poimantikis_pubid1083	skip	"17" .
+authref:poimantikis_pubid1083	dc:language	"German(38)" .
+authref:poimantikis_pubid1084	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1084	dc:type	"Book, Section" .
+authref:poimantikis_pubid1084	dc:source	"Print(0)" .
+authref:poimantikis_pubid1084	dc:identifier	"1084" .
+authref:poimantikis_pubid1084	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1084	bibtex:hasTitle	"Natürliche Theologie in  Lichte des hebräischen und griechischen Alten Testaments." .
+authref:poimantikis_pubid1084	rdfs:label	"Natürliche Theologie in  Lichte des hebräischen und griechischen Alten Testaments." .
+authref:poimantikis_pubid1084	bibtex:hasYear	"2001" .
+authref:poimantikis_pubid1084	bibtex:hasVolume	"57" .
+authref:poimantikis_pubid1084	bibtex:hasPages	"295-310" .
+authref:poimantikis_pubid1084	bibtex:hasSeries	"Theologische Zeitschrift" .
+authref:poimantikis_pubid1084	skip	"17" .
+authref:poimantikis_pubid1084	dc:language	"German(38)" .
+authref:poimantikis_pubid1087	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1087	dc:type	"Book, Section" .
+authref:poimantikis_pubid1087	dc:source	"Print(0)" .
+authref:poimantikis_pubid1087	dc:identifier	"1087" .
+authref:poimantikis_pubid1087	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1087	bibtex:hasTitle	"רוח שקר und die  falsche Prophetie in I Kön 22" .
+authref:poimantikis_pubid1087	rdfs:label	"רוח שקר und die  falsche Prophetie in I Kön 22" .
+authref:poimantikis_pubid1087	bibtex:hasYear	"2000" .
+authref:poimantikis_pubid1087	bibtex:hasVolume	"112" .
+authref:poimantikis_pubid1087	bibtex:hasPages	"365-385" .
+authref:poimantikis_pubid1087	bibtex:hasSeries	"Zeitschrift  für die Alttestamentliche Wissenschaft " .
+authref:poimantikis_pubid1087	skip	"17" .
+authref:poimantikis_pubid1087	dc:language	"German(38)" .
+authref:poimantikis_pubid1086	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1086	dc:type	"Book, Section" .
+authref:poimantikis_pubid1086	dc:source	"Print(0)" .
+authref:poimantikis_pubid1086	dc:identifier	"1086" .
+authref:poimantikis_pubid1086	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1086	bibtex:hasTitle	"מנפש ועד בשר (Jes 10,18)" .
+authref:poimantikis_pubid1086	rdfs:label	"מנפש ועד בשר (Jes 10,18)" .
+authref:poimantikis_pubid1086	bibtex:hasYear	"1999" .
+authref:poimantikis_pubid1086	bibtex:hasVolume	"49" .
+authref:poimantikis_pubid1086	bibtex:hasPages	"301-314" .
+authref:poimantikis_pubid1086	bibtex:hasSeries	"Vetus  Testamentum" .
+authref:poimantikis_pubid1086	skip	"17" .
+authref:poimantikis_pubid1086	dc:language	"German(38)" .
+authref:poimantikis_pubid1082	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1082	dc:type	"Journal Article" .
+authref:poimantikis_pubid1082	dc:source	"Print(0)" .
+authref:poimantikis_pubid1082	dc:identifier	"1082" .
+authref:poimantikis_pubid1082	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1082	bibtex:hasTitle	"איש הרוח ­–  ἄνθρωπος ὁ πνευματοφόρος (Hos 9,7). Zur Theologie der Sprache des Hoseabuches.  Ἐπιστημονικαί Μελέται 1.  Athen, 1999, σελ.  34, ISBN 960-7352-15-7. (=R.Sollamo/S. Sipilä (εκδ.), Helsinki Perspectives on the  Translation Technique of the Septuagint. Publications  of the Finnish Exegetical Society 82. Helsinki/Göttingen 2001, 248-267.) " .
+authref:poimantikis_pubid1082	rdfs:label	"איש הרוח ­–  ἄνθρωπος ὁ πνευματοφόρος (Hos 9,7). Zur Theologie der Sprache des Hoseabuches.  Ἐπιστημονικαί Μελέται 1.  Athen, 1999, σελ.  34, ISBN 960-7352-15-7. (=R.Sollamo/S. Sipilä (εκδ.), Helsinki Perspectives on the  Translation Technique of the Septuagint. Publications  of the Finnish Exegetical Society 82. Helsinki/Göttingen 2001, 248-267.) " .
+authref:poimantikis_pubid1082	dc:language	"Unknown(0)" .
+authref:poimantikis_pubid1090	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1090	dc:type	"Book, Section" .
+authref:poimantikis_pubid1090	dc:source	"Print(0)" .
+authref:poimantikis_pubid1090	dc:identifier	"1090" .
+authref:poimantikis_pubid1090	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1090	bibtex:hasTitle	"Σπλάγχνα im Altgriechischen Schrifttum und in der Septuaginta.  Zur Anthropologie der Septuaginta, M. Augustin/H.M. Niemann (εκδ.),  Stimulation from Leiden. Collected  Communications to the XVIIIth Congress of the International Organization for  the Study of the Old Testament, Leiden 2004, , Frankfurt a.M. κ.α.2006" .
+authref:poimantikis_pubid1090	rdfs:label	"Σπλάγχνα im Altgriechischen Schrifttum und in der Septuaginta.  Zur Anthropologie der Septuaginta, M. Augustin/H.M. Niemann (εκδ.),  Stimulation from Leiden. Collected  Communications to the XVIIIth Congress of the International Organization for  the Study of the Old Testament, Leiden 2004, , Frankfurt a.M. κ.α.2006" .
+authref:poimantikis_pubid1090	bibtex:hasVolume	"54" .
+authref:poimantikis_pubid1090	bibtex:hasPages	"285-294" .
+authref:poimantikis_pubid1090	bibtex:hasSeries	"Beiträge zur Erforschung des Alten Testaments und des Antiken Judentums" .
+authref:poimantikis_pubid1090	dc:language	"German(38)" .
+authref:poimantikis_pubid1091	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1091	dc:type	"Journal Article" .
+authref:poimantikis_pubid1091	dc:source	"Electronic(1)" .
+authref:poimantikis_pubid1091	dc:identifier	"1091" .
+authref:poimantikis_pubid1091	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1091	bibtex:hasTitle	"Septuaginta: Wat is  dit nou weer? ,  03/05/ 2006 (Afrikaans, μετάφρ.  υπό A. Groenewald)." .
+authref:poimantikis_pubid1091	rdfs:label	"Septuaginta: Wat is  dit nou weer? ,  03/05/ 2006 (Afrikaans, μετάφρ.  υπό A. Groenewald)." .
+authref:poimantikis_pubid1091	bibtex:hasURL	"http://www.teo.co.za/wmview.php?ArtID=333" .
+authref:poimantikis_pubid1091	dc:language	"German(38)" .
+authref:poimantikis_pubid1092	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1092	dc:type	"Journal Article" .
+authref:poimantikis_pubid1092	dc:source	"Electronic(1)" .
+authref:poimantikis_pubid1092	dc:identifier	"1092" .
+authref:poimantikis_pubid1092	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1092	bibtex:hasTitle	"Septuaginta-studies:  Wat is die waarde daarvan?  11/05/2006 (Afrikaans, μετάφρ. υπό  A. Groenewald)." .
+authref:poimantikis_pubid1092	rdfs:label	"Septuaginta-studies:  Wat is die waarde daarvan?  11/05/2006 (Afrikaans, μετάφρ. υπό  A. Groenewald)." .
+authref:poimantikis_pubid1092	bibtex:hasURL	"http://www.teo.co.za/wmview.php?ArtID=342;" .
+authref:poimantikis_pubid1092	dc:language	"German(38)" .
+authref:poimantikis_pubid1093	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1093	dc:type	"Journal Article" .
+authref:poimantikis_pubid1093	dc:source	"Electronic(1)" .
+authref:poimantikis_pubid1093	dc:identifier	"1093" .
+authref:poimantikis_pubid1093	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1093	bibtex:hasTitle	"Παντοκράτωρ in Septuaginta-Amos 4,13. Zur Theologie der Sprache  der Septuaginta, M. Knibb (εκδ.), The Septuagint and Messianism. Colloquium Biblicum  Lovaniense LIII, July 27-19, 2004, Bibliothecae  Ephemeridum Theologicarum Lovaniensium 195, Leuven 2006, 443-454.     " .
+authref:poimantikis_pubid1093	rdfs:label	"Παντοκράτωρ in Septuaginta-Amos 4,13. Zur Theologie der Sprache  der Septuaginta, M. Knibb (εκδ.), The Septuagint and Messianism. Colloquium Biblicum  Lovaniense LIII, July 27-19, 2004, Bibliothecae  Ephemeridum Theologicarum Lovaniensium 195, Leuven 2006, 443-454.     " .
+authref:poimantikis_pubid1093	bibtex:hasURL	"http://www.teo.co.za/wmview.php?ArtID=333;" .
+authref:poimantikis_pubid1093	dc:language	"German(38)" .
+authref:poimantikis_pubid1094	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1094	dc:type	"Journal Article" .
+authref:poimantikis_pubid1094	dc:source	"Electronic(1)" .
+authref:poimantikis_pubid1094	dc:identifier	"1094" .
+authref:poimantikis_pubid1094	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1094	bibtex:hasTitle	"Παντοκράτωρ in Septuaginta-Amos 4,13. Zur Theologie der Sprache  der Septuaginta, M. Knibb (εκδ.), The Septuagint and Messianism. Colloquium Biblicum  Lovaniense LIII, July 27-19, 2004, Bibliothecae  Ephemeridum Theologicarum Lovaniensium 195, Leuven 2006, 443-454.     " .
+authref:poimantikis_pubid1094	rdfs:label	"Παντοκράτωρ in Septuaginta-Amos 4,13. Zur Theologie der Sprache  der Septuaginta, M. Knibb (εκδ.), The Septuagint and Messianism. Colloquium Biblicum  Lovaniense LIII, July 27-19, 2004, Bibliothecae  Ephemeridum Theologicarum Lovaniensium 195, Leuven 2006, 443-454.     " .
+authref:poimantikis_pubid1094	bibtex:hasURL	"http://www.teo.co.za/wmview.php? ArtID=342;" .
+authref:poimantikis_pubid1094	dc:language	"German(38)" .
+authref:poimantikis_pubid1095	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1095	dc:type	"Journal Article" .
+authref:poimantikis_pubid1095	dc:source	"Electronic(1)" .
+authref:poimantikis_pubid1095	dc:identifier	"1095" .
+authref:poimantikis_pubid1095	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1095	bibtex:hasTitle	"Die sogenannten ‘Ebed-Jahwe-Lieder in der Septuaginta,  M.K.H. Peeters (εκδ.), XII Congress of the International Organization for  Septuagint and Cognate Studies, Leiden 2004, Society of Biblical  Literature. Septuagint and Cognate Studies, Atlanta, Ga 2006, 187-200." .
+authref:poimantikis_pubid1095	rdfs:label	"Die sogenannten ‘Ebed-Jahwe-Lieder in der Septuaginta,  M.K.H. Peeters (εκδ.), XII Congress of the International Organization for  Septuagint and Cognate Studies, Leiden 2004, Society of Biblical  Literature. Septuagint and Cognate Studies, Atlanta, Ga 2006, 187-200." .
+authref:poimantikis_pubid1095	bibtex:hasURL	"http://www.teo.co.za/wmview.php?ArtID=342;;" .
+authref:poimantikis_pubid1095	dc:language	"German(38)" .
+authref:poimantikis_pubid1099	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1099	dc:type	"Journal Article" .
+authref:poimantikis_pubid1099	dc:source	"Print(0)" .
+authref:poimantikis_pubid1099	dc:identifier	"1099" .
+authref:poimantikis_pubid1099	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1099	bibtex:hasTitle	"Platos Symposion und die Septuagintafassung von  Genesis 2,23f. Methodische Überlegungen zum Austausch von hebräischem und  griechischem Sprach- und Gedankengut in der Klassik und im Hellenismus, Old  Testament Essays 19/3 (2006) 1139-1161.    " .
+authref:poimantikis_pubid1099	rdfs:label	"Platos Symposion und die Septuagintafassung von  Genesis 2,23f. Methodische Überlegungen zum Austausch von hebräischem und  griechischem Sprach- und Gedankengut in der Klassik und im Hellenismus, Old  Testament Essays 19/3 (2006) 1139-1161.    " .
+authref:poimantikis_pubid1099	dc:language	"Unknown(0)" .
+authref:poimantikis_pubid1100	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1100	dc:type	"Journal Article" .
+authref:poimantikis_pubid1100	dc:source	"Print(0)" .
+authref:poimantikis_pubid1100	dc:identifier	"1100" .
+authref:poimantikis_pubid1100	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1100	bibtex:hasTitle	"Psalm 150 according  to the Septuagint. Integrating Translation- and Tradition-Criticism into the  modern Septuagint Exegesis, Verbum et Ecclesia  27/2 (2006) 431-454.    " .
+authref:poimantikis_pubid1100	rdfs:label	"Psalm 150 according  to the Septuagint. Integrating Translation- and Tradition-Criticism into the  modern Septuagint Exegesis, Verbum et Ecclesia  27/2 (2006) 431-454.    " .
+authref:poimantikis_pubid1100	dc:language	"Unknown(0)" .
+authref:poimantikis_pubid1101	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1101	dc:type	"Journal Article" .
+authref:poimantikis_pubid1101	dc:source	"Print(0)" .
+authref:poimantikis_pubid1101	dc:identifier	"1101" .
+authref:poimantikis_pubid1101	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1101	bibtex:hasTitle	"Βροτός.  A favourite word of Homer in the Septuagint version of Job, Verbum et Ecclesia 28/1 (2007) 35-65." .
+authref:poimantikis_pubid1101	rdfs:label	"Βροτός.  A favourite word of Homer in the Septuagint version of Job, Verbum et Ecclesia 28/1 (2007) 35-65." .
+authref:poimantikis_pubid1101	dc:language	"Unknown(0)" .
+authref:poimantikis_pubid1107	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1107	dc:type	"Journal Article" .
+authref:poimantikis_pubid1107	dc:source	"Print(0)" .
+authref:poimantikis_pubid1107	dc:identifier	"1107" .
+authref:poimantikis_pubid1107	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1107	bibtex:hasTitle	"Genesis and  Euripides: Exchange in Virtue Ethics between Israel and Hellas in the Classical  and Hellenistic Period, Old Testament  Essays 20/3 (2007) 601-615." .
+authref:poimantikis_pubid1107	rdfs:label	"Genesis and  Euripides: Exchange in Virtue Ethics between Israel and Hellas in the Classical  and Hellenistic Period, Old Testament  Essays 20/3 (2007) 601-615." .
+authref:poimantikis_pubid1107	dc:language	"Unknown(0)" .
+authref:poimantikis_pubid1108	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1108	dc:type	"Journal Article" .
+authref:poimantikis_pubid1108	dc:source	"Print(0)" .
+authref:poimantikis_pubid1108	dc:identifier	"1108" .
+authref:poimantikis_pubid1108	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
+authref:poimantikis_pubid1108	bibtex:hasTitle	"Η Μετάφραση των Ο΄ και η Αρχαία Ελληνική Φιλοσοφία, Αγία Σιών 2 (2007) 163-179.     " .
+authref:poimantikis_pubid1108	rdfs:label	"Η Μετάφραση των Ο΄ και η Αρχαία Ελληνική Φιλοσοφία, Αγία Σιών 2 (2007) 163-179.     " .
+authref:poimantikis_pubid1108	dc:language	"Unknown(0)" .
+authref:poimantikis_pubid1109	rdf:type	bibtex:Article .
+authref:poimantikis_pubid1109	dc:type	"Journal Article" .
+authref:poimantikis_pubid1109	dc:source	"Print(0)" .
+authref:poimantikis_pubid1109	dc:identifier	"1109" .
+authref:poimantikis_pubid1109	bibtex:hasAuthor	authref:poimantikis_agent13 .
+authref:poimantikis_agent13	rdf:type	foaf:Person .
+authref:poimantikis_agent13	foaf:name	"Dafni,E." .
